@@ -7,13 +7,13 @@
 }
 
 .nav-link{
-    color:rgb(83, 83, 250);
+    color:rgb(125, 250, 83);
     font-weight: 600;
 
 }
 
 .navbar-brand{
-    color:black;
+    color:rgb(82, 13, 13);
     font-size: 30px;
     font-weight: 800;
 
@@ -74,7 +74,7 @@
     position: absolute;
     height: 45px;
     width: 110px;
-    background-color: black;
+    background-color: rgb(234, 30, 30);
     color: white;
     border-radius: 5px;
     outline: none;
@@ -101,14 +101,14 @@
 .Featured{
 
 text-align: center;
-color: darkgreen;
+color: rgb(88, 2, 96);
 font-size: 20px;
 font-weight: 500;
 
 }
 
 .Featured span{
-    color: purple;
+    color: rgb(8, 84, 69);
     font-size: 25px;
     font-weight: 500;
     padding-left: 5px;
@@ -136,7 +136,7 @@ font-weight: 500;
     }
 
 .Featured input:hover{
-    background-color: green;
+    background-color: rgb(34, 54, 102);
     transition: 0.5s;
 }
 
@@ -162,5 +162,5 @@ font-weight: 500;
 .Business
 {
     text-align: center;
-    color: hotpink;
+    color: rgb(168, 13, 90);
 }
